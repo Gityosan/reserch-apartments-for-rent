@@ -1,0 +1,8 @@
+{
+	"xpath": {
+		"https://www.sample.com/": {
+			"title": "//*[@id='main']/h1"
+		}
+	},
+	"links": ["https://www.sample.com/"]
+}
